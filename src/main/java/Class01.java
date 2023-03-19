@@ -8,6 +8,10 @@ public class Class01 {
         System.out.println("Bugun hava gunesli");
         System.out.println("Bugun hava yagisli");
 
+        //Master kodu
+
+
+
 
 
 
